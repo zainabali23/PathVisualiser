@@ -15,36 +15,6 @@ A React-based tool to visualize A* and Dijkstra's algorithms. Users can interact
 - **Frontend:** JavaScript, React.js
 - **Styling:** CSS, HTML
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/graph-algorithm-visualizer.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd graph-algorithm-visualizer
-    ```
-
-3. Install the necessary dependencies:
-
-    ```bash
-    npm install
-    ```
-
-4. Start the development server:
-
-    ```bash
-    npm start
-    ```
-
-The application will be accessible at `http://localhost:3000`.
-
 ## Usage
 
 - **Drag and Drop:** Move the start (green) and end (red) points on the grid.
